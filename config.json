@@ -1,0 +1,15 @@
+{
+  "server": {
+    "host": "asusblue.ddns.net",
+    "port": 25565,
+    "version": "1.21.8"
+  },
+  "reconnectDelayMs": 10000,
+  "bots": [
+    { "username": "Admin - Mama", "registerCmd": "/reg 22222222 22222222", "loginCmd": "/log 22222222" },
+    { "username": "Tống Giang", "registerCmd": "/reg 22222222 22222222", "loginCmd": "/log 22222222" },
+    { "username": "Võ Tòng", "registerCmd": "/reg 22222222 22222222", "loginCmd": "/log 22222222" },
+    { "username": "Miêu Ka", "registerCmd": "/reg 22222222 22222222", "loginCmd": "/log 22222222" },
+    { "username": "Zulu", "registerCmd": "/reg 22222222 22222222", "loginCmd": "/log 22222222" }
+  ]
+}
